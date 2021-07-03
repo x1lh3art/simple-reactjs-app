@@ -2,7 +2,7 @@ curl --location --request POST 'https://api.lovo.ai/v1/conversion' \
       --header 'apiKey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYwZTA5Njc5Yjk0MjUxMDAxMjg3ZDM2YSIsImlhdCI6MTYyNTMzMTMyMjI4M30.7kifiRKwyASE5eIb3JFkQH0dApFbJMbiK8qwxdhzCbo' \
       --header 'Content-Type: application/json' \
       --data-raw '{                                                                                                         
-        "text": "hello world! my name is Martha Sage",
+        "text": "Hello world! my name is Martha Sage",
         "speaker_id": "Dick Cransen",
         "emphasis": "[0, 5]",
         "speed": 1,
